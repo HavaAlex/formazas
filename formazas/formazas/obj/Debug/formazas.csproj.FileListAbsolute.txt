@@ -1,0 +1,20 @@
+H:\11\beadando 2\formazas\formazas\bin\Debug\formazas.exe.config
+H:\11\beadando 2\formazas\formazas\bin\Debug\formazas.exe
+H:\11\beadando 2\formazas\formazas\bin\Debug\formazas.pdb
+H:\11\beadando 2\formazas\formazas\obj\Debug\formazas.csproj.AssemblyReference.cache
+H:\11\beadando 2\formazas\formazas\obj\Debug\formazas.Form1.resources
+H:\11\beadando 2\formazas\formazas\obj\Debug\formazas.Properties.Resources.resources
+H:\11\beadando 2\formazas\formazas\obj\Debug\formazas.csproj.GenerateResource.cache
+H:\11\beadando 2\formazas\formazas\obj\Debug\formazas.csproj.CoreCompileInputs.cache
+H:\11\beadando 2\formazas\formazas\obj\Debug\formazas.exe
+H:\11\beadando 2\formazas\formazas\obj\Debug\formazas.pdb
+C:\Users\Alex\Desktop\formazas\formazas\bin\Debug\formazas.exe.config
+C:\Users\Alex\Desktop\formazas\formazas\bin\Debug\formazas.exe
+C:\Users\Alex\Desktop\formazas\formazas\bin\Debug\formazas.pdb
+C:\Users\Alex\Desktop\formazas\formazas\obj\Debug\formazas.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\formazas\formazas\obj\Debug\formazas.Form1.resources
+C:\Users\Alex\Desktop\formazas\formazas\obj\Debug\formazas.Properties.Resources.resources
+C:\Users\Alex\Desktop\formazas\formazas\obj\Debug\formazas.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\formazas\formazas\obj\Debug\formazas.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\formazas\formazas\obj\Debug\formazas.exe
+C:\Users\Alex\Desktop\formazas\formazas\obj\Debug\formazas.pdb
